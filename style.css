@@ -19,6 +19,11 @@
     color: black !important; /* Change text color to black on hover */
 }
 
+.navbar-nav .nav-item.active .nav-link {
+    border-bottom: 3px solid violet; /* Adjust the color and thickness as needed */
+}
+
+
 /* Custom navbar styles */
 .custom-navbar {
     padding-top: 30px; /* Increase top padding for vertical size */
